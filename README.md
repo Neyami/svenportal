@@ -1,2 +1,7 @@
 # Sven-Portal
-Some stuff from Portal that I've ported to sven
+Some stuff from Portal that I've ported to sven  
+
+
+
+
+Resources (models, sounds, etc) by Valve.
